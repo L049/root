@@ -6,11 +6,11 @@
 
 ## 一键脚本
 ```bash
-wget -q root.sh https://raw.githubusercontent.com/passeway/root/main/root.sh && chmod +x root.sh && ./root.sh
+wget -q root.sh https://raw.githubusercontent.com/L049/root/main/root.sh && chmod +x root.sh && ./root.sh
 ```
 
 ```bash
-curl -sS -o root.sh https://raw.githubusercontent.com/passeway/root/main/root.sh && chmod +x root.sh && ./root.sh
+curl -sS -o root.sh https://raw.githubusercontent.com/L049/root/main/root.sh && chmod +x root.sh && ./root.sh
 ```
 
 
